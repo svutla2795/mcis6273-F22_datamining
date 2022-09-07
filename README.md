@@ -1,1 +1,1 @@
-# mcis6273-F22_datamining
+# mcis6273-F22_datamining project
